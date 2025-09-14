@@ -1,7 +1,7 @@
 # 📚 My LeetCode Solutions (Links Only)
 
 This repository contains clickable links to the original LeetCode problems.  
-You can visit each link to view the problem statement or my shared solution (if available).
+You can visit each link to view the problem statement or my shared solution .
 
 | #   | Problem Title | LeetCode Link |
 |-----|--------------|--------------|
