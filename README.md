@@ -23,4 +23,4 @@ You can visit each link to view the problem statement or my shared solution (if 
 | 1004| Max Consecutive Ones III | https://leetcode.com/problems/max-consecutive-ones-iii/submissions/1770079922
 | 209 | Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1770043260
 | 2210| Count Hills and Valleys in an Array | https://leetcode.com/problems/count-hills-and-valleys-in-an-array/submissions/1754287134
-| 3195| Find the Number of Possible Ways for an Event (Problem 3195) | https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/submissions/1747853804
+| 3195| Find the Number of Possible Ways for an Event | https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/submissions/1747853804
