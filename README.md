@@ -24,3 +24,5 @@ You can visit each link to view the problem statement or my shared solution .
 | 209 | Minimum Size Subarray Sum | https://leetcode.com/problems/minimum-size-subarray-sum/submissions/1770043260
 | 2210| Count Hills and Valleys in an Array | https://leetcode.com/problems/count-hills-and-valleys-in-an-array/submissions/1754287134
 | 3195| Find the Number of Possible Ways for an Event | https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/submissions/1747853804
+| 49  | Group Anagrams | https://leetcode.com/problems/group-anagrams/submissions/1773734739
+| 1052| Grumpy Bookstore Owner | https://leetcode.com/problems/grumpy-bookstore-owner/submissions/1773706441
