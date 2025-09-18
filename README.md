@@ -27,3 +27,7 @@ You can visit each link to view the problem statement or my shared solution .
 | 49  | Group Anagrams | https://leetcode.com/problems/group-anagrams/submissions/1773734739
 | 1052| Grumpy Bookstore Owner | https://leetcode.com/problems/grumpy-bookstore-owner/submissions/1773706441
 | 451 | Sort Characters By Frequency | https://leetcode.com/problems/sort-characters-by-frequency/submissions/1774025938
+| 704 | Binary Search | https://leetcode.com/problems/binary-search/submissions/1774899777
+| 33  | Search in Rotated Sorted Array | https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1604328671
+| 34  | Find First and Last Position of Element in Sorted Array | https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1774907329
+| 35  | Search Insert Position | https://leetcode.com/problems/search-insert-position/submissions/1774898474
