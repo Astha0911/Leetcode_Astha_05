@@ -62,6 +62,7 @@ You can visit each link to view the problem statement or my shared solution.
 | 81. Search in Rotated Sorted Array II | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/1777638615) |
 | 153. Find Minimum in Rotated Sorted Array | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1777658415)
 | 540. Single Element in a Sorted Array | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777690923) |
+| 162. Find Peak Element | [Link](https://leetcode.com/problems/find-peak-element/submissions/1652898549) |
 
 ---
 
