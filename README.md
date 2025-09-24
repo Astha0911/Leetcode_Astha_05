@@ -66,6 +66,8 @@ You can visit each link to view the problem statement or my shared solution.
 | 540. Single Element in a Sorted Array | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777690923) |
 | 162. Find Peak Element | [Link](https://leetcode.com/problems/find-peak-element/submissions/1652898549) |
 | 1011. Capacity To Ship Packages Within D Days | [Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1781088242) |
+| 875. Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas/submissions/1779943222) |
+| 74. Search a 2D Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/submissions/1781115680) |
 
 ---
 
