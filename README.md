@@ -71,6 +71,19 @@ You can visit each link to view the problem statement or my shared solution.
 
 ---
 
+## 🟣 Linked List
+
+| Problem | Link |
+|---------|------|
+| 237. Delete Node in Linked List | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1782206724) |
+| 876. Middle of the Linked List | [Link](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1782213324) |
+| 328. Odd Even Linked List | [Link](https://leetcode.com/problems/odd-even-linked-list/submissions/1782233428) |
+| 19. Remove Nth Node From End of List | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1646818759) |
+| 206. Reverse Linked list | [Link](https://leetcode.com/problems/reverse-linked-list/submissions/1645234781) |
+| Problem Name | [Link](URL) |
+
+---
+
 ## 🟣 GRAPH
 
 | Problem | Link |
