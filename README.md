@@ -80,6 +80,10 @@ You can visit each link to view the problem statement or my shared solution.
 | 328. Odd Even Linked List | [Link](https://leetcode.com/problems/odd-even-linked-list/submissions/1782233428) |
 | 19. Remove Nth Node From End of List | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1646818759) |
 | 206. Reverse Linked list | [Link](https://leetcode.com/problems/reverse-linked-list/submissions/1645234781) |
+| 141. Linked List Cycle | [Link](https://leetcode.com/problems/linked-list-cycle/submissions/1646219326) |
+| 234. Palindrome Linked List | [Link](https://leetcode.com/problems/palindrome-linked-list/submissions/1784848823) |
+| 142. Linked List Cycle II | [Link](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1784912432) |
+| 160. Intersection of Two linked Lists | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1784898382) |
 | Problem Name | [Link](URL) |
 
 ---
