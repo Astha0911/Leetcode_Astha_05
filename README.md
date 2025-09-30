@@ -85,6 +85,10 @@ You can visit each link to view the problem statement or my shared solution.
 | 142. Linked List Cycle II | [Link](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1784912432) |
 | 160. Intersection of Two linked Lists | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1784898382) |
 | 2. Add Two Numbers | [Link](https://leetcode.com/problems/add-two-numbers/submissions/1646808797) |
+| 25. Reverse Nodes in k-Group | [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1787067648) |
+| 61. Rotate List | [Link](https://leetcode.com/problems/rotate-list/submissions/1786089109) |
+| 138. Copy List with Random Pointer | [Link](https://leetcode.com/problems/copy-list-with-random-pointer/submissions/1787049773) |
+| Flattering a Linked List - GFG | [Link](https://www.geeksforgeeks.org/problems/flattening-a-linked-list--170645/0) |
 
 ---
 
