@@ -92,6 +92,17 @@ You can visit each link to view the problem statement or my shared solution.
 
 ---
 
+## 🟣 STACK & QUEUW
+
+| Problem | Link |
+|---------|------|
+| Implement Stack Using Array - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-stack-using-array/0) |
+| Queue Using Array - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-queue-using-array/0) |
+| Stack using Linked List - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/0) |
+
+
+---
+
 ## 🟣 GRAPH
 
 | Problem | Link |
