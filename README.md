@@ -101,8 +101,8 @@ You can visit each link to view the problem statement or my shared solution.
 | Stack using Linked List - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/0) |
 | 20. Valid Parentheses | [Link](https://leetcode.com/problems/valid-parentheses/submissions/1791770401) |
 | 155. Min Stack | [Link](https://leetcode.com/problems/min-stack/submissions/1791778233) |
-|  | [Link](URL) |
-
+| 496. Next Greater Element I | [Link](https://leetcode.com/problems/next-greater-element-i/submissions/1795141155) |
+| Problem Name | [Link](URL) |
 ---
 
 ## 🟡 GRAPH
