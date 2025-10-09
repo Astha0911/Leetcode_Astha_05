@@ -102,7 +102,9 @@ You can visit each link to view the problem statement or my shared solution.
 | 20. Valid Parentheses | [Link](https://leetcode.com/problems/valid-parentheses/submissions/1791770401) |
 | 155. Min Stack | [Link](https://leetcode.com/problems/min-stack/submissions/1791778233) |
 | 496. Next Greater Element I | [Link](https://leetcode.com/problems/next-greater-element-i/submissions/1795141155) |
-| Problem Name | [Link](URL) |
+| 84. Largest Rectangle in Histogram | [Link](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1649500084) |
+| 503. Next Greater Element II | [Link](https://leetcode.com/problems/next-greater-element-ii/submissions/1796110050) |
+
 ---
 
 ## 🟡 GRAPH
