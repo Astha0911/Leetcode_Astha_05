@@ -104,6 +104,8 @@ You can visit each link to view the problem statement or my shared solution.
 | 496. Next Greater Element I | [Link](https://leetcode.com/problems/next-greater-element-i/submissions/1795141155) |
 | 84. Largest Rectangle in Histogram | [Link](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1649500084) |
 | 503. Next Greater Element II | [Link](https://leetcode.com/problems/next-greater-element-ii/submissions/1796110050) |
+| 735. Asteroid Collision | [Link](https://leetcode.com/problems/asteroid-collision/submissions/1796261048) |
+| 42. Trapping Rain Water | [Link](https://leetcode.com/problems/trapping-rain-water/submissions/1796295731) |
 
 ---
 
