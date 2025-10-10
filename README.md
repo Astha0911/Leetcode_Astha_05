@@ -24,7 +24,6 @@ You can visit each link to view the problem statement or my shared solution.
 | 3195. Find the Number of Possible Ways for an Event | [Link](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/submissions/1747853804) |
 | 875. Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas/submissions/1779943222) |
 | 74. Search a 2D Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/submissions/1781115680) |
-| 42. Trapping Rain Water | [Link](https://leetcode.com/problems/trapping-rain-water/submissions/1796295731) |
  
 ---
 
@@ -69,6 +68,7 @@ You can visit each link to view the problem statement or my shared solution.
 | 1011. Capacity To Ship Packages Within D Days | [Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1781088242) |
 | 875. Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas/submissions/1779943222) |
 | 74. Search a 2D Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/submissions/1781115680) |
+| 42. Trapping Rain Water | [Link](https://leetcode.com/problems/trapping-rain-water/submissions/1797062263) |
 
 ---
 
