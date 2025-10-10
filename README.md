@@ -106,6 +106,10 @@ You can visit each link to view the problem statement or my shared solution.
 | 84. Largest Rectangle in Histogram | [Link](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1649500084) |
 | 503. Next Greater Element II | [Link](https://leetcode.com/problems/next-greater-element-ii/submissions/1796110050) |
 | 735. Asteroid Collision | [Link](https://leetcode.com/problems/asteroid-collision/submissions/1796261048) |
+| 907. Sum of Subarray Minimums | [Link](https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1797106319) |
+| 2104. Sum of Subarray Ranges | [Link](https://leetcode.com/problems/sum-of-subarray-ranges/submissions/1797134989) |
+| 402. Remove K Digits | [Link](https://leetcode.com/problems/remove-k-digits/submissions/1797153923) |
+| Problem Name | [Link](URL) |
 
 ---
 
