@@ -109,7 +109,8 @@ You can visit each link to view the problem statement or my shared solution.
 | 907. Sum of Subarray Minimums | [Link](https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1797106319) |
 | 2104. Sum of Subarray Ranges | [Link](https://leetcode.com/problems/sum-of-subarray-ranges/submissions/1797134989) |
 | 402. Remove K Digits | [Link](https://leetcode.com/problems/remove-k-digits/submissions/1797153923) |
-| Problem Name | [Link](URL) |
+| 901. Online Stock Span | [Link](https://leetcode.com/problems/online-stock-span/submissions/1798086300) |
+| 85. Maximal Rectangle | [Link](https://leetcode.com/problems/maximal-rectangle/submissions/1798108942) |
 
 ---
 
