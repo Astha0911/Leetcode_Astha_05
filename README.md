@@ -114,6 +114,25 @@ You can visit each link to view the problem statement or my shared solution.
 
 ---
 
+## 🟢 Tree
+
+| Problem | Link |
+|---------|------|
+| 144. Binary Tree Preorder Traversal | [Link](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1798917181) |
+| 94. Binary Tree Inorder Traversal | [Link](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1649711451) |
+| 102. Binary Tree Level Order Traversal | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1799427057) |
+| 103. Binary Tree Zigzag Level Order Traversal | [Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1799445864) |
+| 104. Maximum Depth of Binary Tree | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1799452120) |
+| 100. Same Tree | [Link](https://leetcode.com/problems/same-tree/submissions/1799455921) |
+| 110. Balanced Binary Tree | [Link](https://leetcode.com/problems/balanced-binary-tree/submissions/1799464480) |
+| 543. Diameter of Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1799509845) |
+| 199. Binary Tree Right Side View | [Link](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1799518946) |
+| 101. Symmetric Tree | [Link](URL) |
+| 987. Vertical Order Traversal of a Binary Tree | [Link](URL) |
+| 124. Binary Tree Maximum Path Sum | [Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/1650996507) |
+
+---
+
 ## 🟡 GRAPH
 
 | Problem | Link |
