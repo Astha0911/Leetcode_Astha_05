@@ -127,7 +127,7 @@ You can visit each link to view the problem statement or my shared solution.
 | 110. Balanced Binary Tree | [Link](https://leetcode.com/problems/balanced-binary-tree/submissions/1799464480) |
 | 543. Diameter of Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1799509845) |
 | 199. Binary Tree Right Side View | [Link](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1799518946) |
-| 101. Symmetric Tree | [Link](URL) |
+| 101. Symmetric Tree | [Link](https://leetcode.com/problems/symmetric-tree/submissions/1799999408) |
 | 987. Vertical Order Traversal of a Binary Tree | [Link](URL) |
 | 124. Binary Tree Maximum Path Sum | [Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/1650996507) |
 
