@@ -98,8 +98,14 @@ You can visit each link to view the problem statement or my shared solution.
 | Problem | Link |
 |---------|------|
 | Implement Stack Using Array - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-stack-using-array/0) |
-| Queue Using Array - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-queue-using-array/0) |
-| Stack using Linked List - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/0) |
+| Implement Queue Using Array - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-queue-using-array/0) |
+| Implement Stack using Linked List - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/0) |
+| Implement Queue using Linked List - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) |
+| Implement Stack using Linked List - GFG | [Link]() |
+| Stack using Linked List - GFG | [Link]() |
+| Stack using Linked List - GFG | [Link]() |
+| Stack using Linked List - GFG | [Link]() |
+| Stack using Linked List - GFG | [Link]() |
 | 20. Valid Parentheses | [Link](https://leetcode.com/problems/valid-parentheses/submissions/1791770401) |
 | 155. Min Stack | [Link](https://leetcode.com/problems/min-stack/submissions/1791778233) |
 | 496. Next Greater Element I | [Link](https://leetcode.com/problems/next-greater-element-i/submissions/1795141155) |
@@ -128,7 +134,7 @@ You can visit each link to view the problem statement or my shared solution.
 | 543. Diameter of Binary Tree | [Link](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1799509845) |
 | 199. Binary Tree Right Side View | [Link](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1799518946) |
 | 101. Symmetric Tree | [Link](https://leetcode.com/problems/symmetric-tree/submissions/1799999408) |
-| 987. Vertical Order Traversal of a Binary Tree | [Link](URL) |
+| 987. Vertical Order Traversal of a Binary Tree | [Link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/1801596195) |
 | 124. Binary Tree Maximum Path Sum | [Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/1650996507) |
 
 ---
