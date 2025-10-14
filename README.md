@@ -101,11 +101,15 @@ You can visit each link to view the problem statement or my shared solution.
 | Implement Queue Using Array - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-queue-using-array/0) |
 | Implement Stack using Linked List - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/0) |
 | Implement Queue using Linked List - GFG | [Link](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) |
-| Implement Stack using Linked List - GFG | [Link]() |
-| Stack using Linked List - GFG | [Link]() |
-| Stack using Linked List - GFG | [Link]() |
-| Stack using Linked List - GFG | [Link]() |
-| Stack using Linked List - GFG | [Link]() |
+| Stack using two Queue - GFG | [Link](https://www.geeksforgeeks.org/problems/stack-using-two-queues/1) |
+| Queue using two Stacks - GFG | [Link](https://www.geeksforgeeks.org/problems/queue-using-two-stacks/1) |
+| Next Greater Element - GFG | [Link](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) |
+| Next Smaller Element - GFG | [Link](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) |
+| Infix to Postfix - GFG | [Link](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) |
+| Prefix to Postfix - GFG | [Link](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1) |
+| Prefix to Infix - GFG | [Link](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1) |
+| Postfix to prefix - GFG | [Link](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1) |
+| Postfix to Infix - GFG | [Link](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) |
 | 20. Valid Parentheses | [Link](https://leetcode.com/problems/valid-parentheses/submissions/1791770401) |
 | 155. Min Stack | [Link](https://leetcode.com/problems/min-stack/submissions/1791778233) |
 | 496. Next Greater Element I | [Link](https://leetcode.com/problems/next-greater-element-i/submissions/1795141155) |
