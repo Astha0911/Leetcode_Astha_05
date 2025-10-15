@@ -147,5 +147,16 @@ You can visit each link to view the problem statement or my shared solution.
 
 | Problem | Link |
 |---------|------|
+| 700. Search in a Binary Search Tree | [Link](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1802238893) |
+| Ceil in BST - GFG | [Link](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) |
+| 701. Insert into a Binary Search Tree | [Link](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1802273499) |
+| Problem Name | [Link](URL) |
+
+---
+
+## 🟡 GRAPH
+
+| Problem | Link |
+|---------|------|
 | Problem Name | [Link](URL) |
 
