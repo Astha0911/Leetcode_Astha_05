@@ -151,7 +151,7 @@ You can visit each link to view the problem statement or my shared solution.
 | Ceil in BST - GFG | [Link](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) |
 | Floor in BST - GFG | [Link](URL) |
 | 701. Insert into a Binary Search Tree | [Link](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1802273499) |
-| 450. Delete Node in a BST | [Link](URL) |
+| 450. Delete Node in a BST | [Link](https://leetcode.com/problems/delete-node-in-a-bst/submissions/1802304700) |
 
 ---
 
