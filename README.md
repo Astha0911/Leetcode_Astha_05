@@ -143,7 +143,7 @@ You can visit each link to view the problem statement or my shared solution.
 
 ---
 
-## 🟡 GRAPH
+## 🔵 BINARY SEARCH TREE
 
 | Problem | Link |
 |---------|------|
