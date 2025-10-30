@@ -24,6 +24,9 @@ You can visit each link to view the problem statement or my shared solution.
 | 3195. Find the Number of Possible Ways for an Event | [Link](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/submissions/1747853804) |
 | 875. Koko Eating Bananas | [Link](https://leetcode.com/problems/koko-eating-bananas/submissions/1779943222) |
 | 74. Search a 2D Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/submissions/1781115680) |
+| 215. Kth Largest in an Array | [Link](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1652860887) |
+| 373. Find k Pairs with Smallest Sums | [Link](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/submissions/1816106502) |
+| 502. IPO | [Link](https://leetcode.com/problems/ipo/submissions/1816114891) |
  
 ---
 
