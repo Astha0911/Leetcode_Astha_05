@@ -29,7 +29,7 @@ You can visit each link to view the problem statement or my shared solution.
 | 502. IPO | [Link](https://leetcode.com/problems/ipo/submissions/1816114891) |
 | 658. Find K Closest Elements | [Link](https://leetcode.com/problems/find-k-closest-elements/submissions/1823344673) |
 | 973.K Closest Points to Origin | [Link](https://leetcode.com/problems/k-closest-points-to-origin/submissions/1823355453) |
-| 295.Find Median from Data Stream | [Link](URL) |
+| 295.Find Median from Data Stream | [Link](https://leetcode.com/problems/find-median-from-data-stream/submissions/1824052771) |
  
 ---
 
